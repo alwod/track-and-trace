@@ -1,0 +1,17 @@
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\obj\Debug\netcoreapp3.1\TrackAndTrace.csprojAssemblyReference.cache
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\obj\Debug\netcoreapp3.1\App.g.cs
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\obj\Debug\netcoreapp3.1\TrackAndTrace_MarkupCompile.cache
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\obj\Debug\netcoreapp3.1\TrackAndTrace_MarkupCompile.lref
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\bin\Debug\netcoreapp3.1\TrackAndTrace.exe
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\bin\Debug\netcoreapp3.1\TrackAndTrace.deps.json
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\bin\Debug\netcoreapp3.1\TrackAndTrace.runtimeconfig.json
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\bin\Debug\netcoreapp3.1\TrackAndTrace.runtimeconfig.dev.json
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\bin\Debug\netcoreapp3.1\TrackAndTrace.dll
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\bin\Debug\netcoreapp3.1\TrackAndTrace.pdb
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\obj\Debug\netcoreapp3.1\TrackAndTrace.g.resources
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\obj\Debug\netcoreapp3.1\TrackAndTrace.AssemblyInfoInputs.cache
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\obj\Debug\netcoreapp3.1\TrackAndTrace.AssemblyInfo.cs
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\obj\Debug\netcoreapp3.1\TrackAndTrace.dll
+C:\University\Year 2\Object Oriented Software Development\Coursework2\TrackAndTrace\obj\Debug\netcoreapp3.1\TrackAndTrace.pdb
